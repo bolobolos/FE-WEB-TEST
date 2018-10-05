@@ -8,6 +8,11 @@ Install bootstrap@4.1.1
 npm install bootstrap@4.1.1 --save
 ```
 
+Compile all dependencies
+```
+npm install
+```
+
 Running the apps
 ```
 npm start
